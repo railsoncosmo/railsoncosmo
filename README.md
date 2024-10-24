@@ -6,7 +6,10 @@
 
 ###
 
-<h1 align="center" >Hello! I am Railson Cosmo 👋</h1>
+<h1 align="center" >
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand Emoji" width="30px"/>
+  Hello! I am Railson!
+</h1>
 
 ###
 
@@ -31,21 +34,13 @@
 
 ###
 
- <h2 align="center">My Skills 👨🏻‍💻</h2>
+ <h2 align="center">Skills</h2>
 
 ###
 
 <div align="center">
 
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="45" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="39" alt="git logo"  />
-  <img width="12" />
+  [![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,git,nodejs,postgres,react&theme=dark)](https://skillicons.dev)
 
 </div>
 
@@ -67,7 +62,7 @@
 ###
 
 
-<h2 align="center">Connect with me 🤝</h2>
+<h2 align="center">Connect with me <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" width="30px" alt="Hand Shake Emoji"/></h2>
 
 
 ###
