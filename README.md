@@ -27,7 +27,7 @@
 
 ###
 
-<p align="justify">Minha jornada no mundo da programação começou com uma curiosidade genuína sobre como os softwares funcionam e agora me encontro explorando desde fundamentos básicos até técnicas mais avançadas. Estou sempre em busca de novos desafios, sejam eles em projetos pessoais ou em exercícios de codificação. Minha abordagem é aprender fazendo — quebrar problemas complexos em partes menores e encontrar soluções criativas. Além de programar, gosto de acompanhar as últimas tendências em tecnologia e colaborar com outros entusiastas para compartilhar conhecimentos e crescer juntos.</p>
+<p align="justify">Minha jornada no mundo da programação começou com uma curiosidade genuína sobre como os softwares funcionam e agora me encontro explorando desde fundamentos básicos até técnicas mais avançadas. Estou sempre em busca de novos desafios, sejam eles em projetos pessoais. Além de programar, gosto de acompanhar as últimas tendências em tecnologia e colaborar com outros para compartilhar conhecimentos e crescer juntos.</p>
 
 ###
 
