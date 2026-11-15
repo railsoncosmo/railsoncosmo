@@ -9,7 +9,6 @@
     <p>🎓 Student in Systems Analysis and Development</p>
     <p>💻 FullStack Developer</p>
     <p>⚙️ Learning: TypeScript • Docker • Angular • SQL • Software Architecture</p>
-    <p>💡 Passionate about clean code, solid and creative solutions</p>
     <p>🎲 Fun fact: I debug better with coffee ☕</p>
   </div>
 
